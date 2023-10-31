@@ -3,7 +3,4 @@ pandas
 matplotlib
 seaborn
 wordcloud
-collections
-pickle
 networkx
-ast
