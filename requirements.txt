@@ -4,3 +4,5 @@ matplotlib
 seaborn
 wordcloud
 networkx
+numpy
+plotly.express
